@@ -1,7 +1,6 @@
 ## Hi there 👋
 # 👋 Hi, I'm Rishabh Vishwakarma
 
-# 👋 Suraj Vishvkarma
 ### Full-Stack Web Developer | MERN Stack | Problem Solver  
 
 I’m a **Full-Stack Web Developer** passionate about building **scalable, efficient, and user-focused web applications**.  
