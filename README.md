@@ -21,7 +21,7 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
   <a href="https://leetcode.com/princesingh536">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:surajvishwakarma2486@gmail.com">
+  <a href="mailto:rishabhtech638@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://x.com/surajvishw66387">
